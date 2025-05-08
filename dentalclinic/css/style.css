@@ -1,0 +1,21 @@
+.logo-spacing {
+    margin-right: 400px;
+  }
+
+  .navbar-nav .nav-item {
+    margin-right: 30px;
+  }
+  body {
+    direction: ltr;
+  }
+  body.rtl {
+    direction: rtl;
+    text-align: right;
+  }
+  .call{
+    text-decoration: none;
+    color: aliceblue;
+  }
+  .call:hover{
+    color: black;
+  }
